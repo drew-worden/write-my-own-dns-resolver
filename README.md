@@ -1,4 +1,4 @@
-# Write My Own JSON Parser
+# Write My Own DNS Resolver
 
 > Part of the "Write My Own" series where I implement important pieces of software from scratch (or very minimal libraries) in different programming languages.
 

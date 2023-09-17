@@ -1,0 +1,9 @@
+[package]
+name = "write-my-own-dns-resolver"
+version = "0.1.0"
+author = "Drew Worden"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
